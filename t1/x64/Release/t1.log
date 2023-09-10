@@ -1,0 +1,6 @@
+﻿  t1.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  t1.vcxproj -> C:\Users\did09\Desktop\practice\t1\x64\Release\t1.exe
